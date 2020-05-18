@@ -23,6 +23,7 @@ repositories {
 dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:27.1-jre'
+    compile "io.vavr:vavr:0.9.3"
 
     // Use JUnit test framework
     testImplementation 'org.junit.jupiter:junit-jupiter:5.4.2'
