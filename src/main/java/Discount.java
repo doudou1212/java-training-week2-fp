@@ -1,6 +1,6 @@
 import java.util.Optional;
 
-public class Discoun {
+public class Discount {
     private static final double discount = 0.2;
     private static final int threshold = 100;
 
